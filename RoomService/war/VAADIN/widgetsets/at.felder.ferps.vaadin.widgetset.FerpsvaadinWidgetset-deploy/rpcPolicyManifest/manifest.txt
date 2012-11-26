@@ -1,0 +1,2 @@
+# Module at.felder.ferps.vaadin.widgetset.FerpsvaadinWidgetset
+# RPC service class, partial path of RPC policy file

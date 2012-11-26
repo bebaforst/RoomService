@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+				<GridLayout margin ="left top" id="removeAbleGrid" caption="GridLayout">
+						<TextField caption="G.1.1"  gridConstants="1,1"></TextField>
+						<TextField caption="G.2.1"  gridConstants="2,1"></TextField>
+						<TextField caption="G.3.1"  gridConstants="3,1"></TextField>
+						<TextField caption="G.4.1"  gridConstants="4,1"></TextField>
+						<TextField caption="G.5.1"  gridConstants="5,1"></TextField>
+						
+						<TextField caption="G.1.2"  gridConstants="1,2"></TextField>
+						<TextField caption="G.3.2"  gridConstants="3,2"></TextField>
+						<TextField caption="G.2.3"  gridConstants="2,3"></TextField>
+						<TextField caption="G.3.4"  gridConstants="3,4"></TextField>
+						<TextField caption="G.4.5"  gridConstants="4,5"></TextField>
+						
+						<TextField caption="G.1.6"  gridConstants="1,6"></TextField>
+						<TextField caption="G.2.6"  gridConstants="2,6"></TextField>
+						<TextField caption="G.3.6"  gridConstants="3,6"></TextField>
+						<TextField caption="G.4.6"  gridConstants="4,6"></TextField>
+						<TextField caption="G.5.6"  gridConstants="5,6"></TextField>		
+						<TextField caption="G.1.7"  gridConstants="1,7"></TextField>		
+						<TextField caption="G.1.8"  gridConstants="1,8"></TextField>		
+						<InlineDateField resolution="4" gridConstants="4,7,5,8"></InlineDateField>
+						
+				</GridLayout>
