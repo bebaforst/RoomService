@@ -18,4 +18,8 @@
     -->
     <!-- <set-property name="user.agent" value="gecko1_8"/> -->
 
+
+    <inherits name="com.gaedatastorecontainers.example.widgetset.GaedatastorecontainersWidgetset" />
+
+    <inherits name="org.vaadin.passwordfield.PasswordFieldWidgetset" />
 </module>
